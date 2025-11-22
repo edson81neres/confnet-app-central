@@ -1,0 +1,21 @@
+{
+  "name": "ConfNet Fibra",
+  "short_name": "ConfNet",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f0f9ff",
+  "theme_color": "#0284c7",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2933/2933190.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2933/2933190.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
